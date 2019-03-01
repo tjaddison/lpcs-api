@@ -1,0 +1,9 @@
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Persistence/bin/Debug/netstandard2.0/ResidentSupervision.Persistence.deps.json
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Persistence/bin/Debug/netstandard2.0/ResidentSupervision.Persistence.dll
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Persistence/bin/Debug/netstandard2.0/ResidentSupervision.Persistence.pdb
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Persistence/obj/Debug/netstandard2.0/ResidentSupervision.Persistence.csprojAssemblyReference.cache
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Persistence/obj/Debug/netstandard2.0/ResidentSupervision.Persistence.csproj.CoreCompileInputs.cache
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Persistence/obj/Debug/netstandard2.0/ResidentSupervision.Persistence.AssemblyInfoInputs.cache
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Persistence/obj/Debug/netstandard2.0/ResidentSupervision.Persistence.AssemblyInfo.cs
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Persistence/obj/Debug/netstandard2.0/ResidentSupervision.Persistence.dll
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Persistence/obj/Debug/netstandard2.0/ResidentSupervision.Persistence.pdb

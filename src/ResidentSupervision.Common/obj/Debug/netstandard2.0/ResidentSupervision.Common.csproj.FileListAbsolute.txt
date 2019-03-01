@@ -1,0 +1,9 @@
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Common/bin/Debug/netstandard2.0/ResidentSupervision.Common.deps.json
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Common/bin/Debug/netstandard2.0/ResidentSupervision.Common.dll
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Common/bin/Debug/netstandard2.0/ResidentSupervision.Common.pdb
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Common/obj/Debug/netstandard2.0/ResidentSupervision.Common.csprojAssemblyReference.cache
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Common/obj/Debug/netstandard2.0/ResidentSupervision.Common.csproj.CoreCompileInputs.cache
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Common/obj/Debug/netstandard2.0/ResidentSupervision.Common.AssemblyInfoInputs.cache
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Common/obj/Debug/netstandard2.0/ResidentSupervision.Common.AssemblyInfo.cs
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Common/obj/Debug/netstandard2.0/ResidentSupervision.Common.dll
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.Common/obj/Debug/netstandard2.0/ResidentSupervision.Common.pdb

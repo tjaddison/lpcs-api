@@ -1,0 +1,14 @@
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/obj/Debug/netcoreapp2.2/ResidentSupervision.WebUI.csprojAssemblyReference.cache
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/obj/Debug/netcoreapp2.2/ResidentSupervision.WebUI.csproj.CoreCompileInputs.cache
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/obj/Debug/netcoreapp2.2/ResidentSupervision.WebUI.RazorAssemblyInfo.cache
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/obj/Debug/netcoreapp2.2/ResidentSupervision.WebUI.RazorAssemblyInfo.cs
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/obj/Debug/netcoreapp2.2/ResidentSupervision.WebUI.AssemblyInfoInputs.cache
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/obj/Debug/netcoreapp2.2/ResidentSupervision.WebUI.AssemblyInfo.cs
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/bin/Debug/netcoreapp2.2/ResidentSupervision.WebUI.deps.json
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/bin/Debug/netcoreapp2.2/ResidentSupervision.WebUI.runtimeconfig.json
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/bin/Debug/netcoreapp2.2/ResidentSupervision.WebUI.runtimeconfig.dev.json
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/bin/Debug/netcoreapp2.2/ResidentSupervision.WebUI.dll
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/bin/Debug/netcoreapp2.2/ResidentSupervision.WebUI.pdb
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/obj/Debug/netcoreapp2.2/ResidentSupervision.WebUI.RazorTargetAssemblyInfo.cache
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/obj/Debug/netcoreapp2.2/ResidentSupervision.WebUI.dll
+/Users/terrance/Projects/lpcs-api/src/ResidentSupervision.WebUI/obj/Debug/netcoreapp2.2/ResidentSupervision.WebUI.pdb
