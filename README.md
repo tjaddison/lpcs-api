@@ -44,4 +44,4 @@ ResidentSupervisor is a web based service used to connect licensed professional 
 
 ## Architecture
 
-![Image](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1#G1ZlG7vIAEzjJx8jGLhKkrs9C1CJbXuLCj)
+![Image](https://raw.githubusercontent.com/tjaddison/lpcs-api/master/img/lpcs-architecture.png)
